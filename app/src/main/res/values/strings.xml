@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabBarr</string>
+
+    <string name="fragment_first_title">First</string>
+    <string name="fragment_second_title">Second</string>
+    <string name="fragment_third_title">Third</string>
+</resources>
