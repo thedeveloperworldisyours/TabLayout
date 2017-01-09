@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TabBarr</string>
+    <string name="app_name">TabLayout</string>
 
     <string name="fragment_first_title">First</string>
     <string name="fragment_second_title">Second</string>
