@@ -1,13 +1,14 @@
 # TabLayout
 TabLayout with Android Design Support Library
 
-If you need more information, read **[this post] (http://thedeveloperworldisyours.com/android/tablayout-with-android-design-support-library/#sthash.83KLwyh9.dpbs)** 
-
-in **[The Developer Wordl Is yours](http://thedeveloperworldisyours.com/)** please.
+If you need more information, read **[this post] (http://thedeveloperworldisyours.com/android/tablayout-with-android-design-support-library/#sthash.83KLwyh9.dpbs)** please.
 
 <p align="center">
  <img src="https://github.com/CabezasGonzalezJavier/TabLayout/blob/master/TabLayout.gif" width="300px" />
 </p>
+
+Also visit my blog: **[The developer world is yours](http://thedeveloperworldisyours.com/)**
+
 
 # Requirements
 
